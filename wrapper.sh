@@ -1,4 +1,5 @@
-#!/bin/bash
+
+#!/bin/sh
 
 echo "Nginx is running..."
 
